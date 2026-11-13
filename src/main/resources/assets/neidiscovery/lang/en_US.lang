@@ -1,0 +1,7 @@
+nei.options.inventory.discovery=Discovery
+nei.options.inventory.discovery.enabled=Filter undiscovered items
+nei.options.inventory.discovery.enabled.true=Enabled
+nei.options.inventory.discovery.enabled.false=Disabled
+nei.options.inventory.discovery.chains=Include recipe chains
+nei.options.inventory.discovery.chains.true=Enabled
+nei.options.inventory.discovery.chains.false=Disabled

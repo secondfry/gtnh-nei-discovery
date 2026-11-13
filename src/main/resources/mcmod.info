@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "neidiscovery",
+    "name": "NEI Discovery",
+    "description": "Filter NEI by inventory discoveries and recipes using known ingredient types.",
+    "version": "0.1.2",
+    "mcversion": "1.7.10",
+    "clientSideOnly": true,
+    "authorList": ["Rustam @SecondFry Gubaidullin"],
+    "license": "MIT"
+  }
+]
